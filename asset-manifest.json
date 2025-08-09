@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/masar-portal/static/css/main.66e8c3e4.css",
+    "main.js": "/masar-portal/static/js/main.526af568.js",
+    "static/js/453.1b902031.chunk.js": "/masar-portal/static/js/453.1b902031.chunk.js",
+    "static/media/logo.png": "/masar-portal/static/media/logo.c8decf83586aa7c483d9.png",
+    "static/media/moh-logo.png": "/masar-portal/static/media/moh-logo.bfe6544e35d57a257133.png",
+    "static/media/vision-logo.png": "/masar-portal/static/media/vision-logo.c75ca25c00ab9e1246df.png",
+    "index.html": "/masar-portal/index.html",
+    "main.66e8c3e4.css.map": "/masar-portal/static/css/main.66e8c3e4.css.map",
+    "main.526af568.js.map": "/masar-portal/static/js/main.526af568.js.map",
+    "453.1b902031.chunk.js.map": "/masar-portal/static/js/453.1b902031.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e8c3e4.css",
+    "static/js/main.526af568.js"
+  ]
+}
